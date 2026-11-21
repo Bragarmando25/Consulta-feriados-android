@@ -1,21 +1,42 @@
-<<<<<<< HEAD
-# consulta_feriados
+📅 Consulta de Feriados
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter e Dart para consultar feriados nacionais do Brasil de maneira simples e prática.
 
-## Getting Started
+O projeto foi desenvolvido como atividade acadêmica da disciplina de Desenvolvimento para Dispositivos Móveis, do curso de Ciência da Computação da Universidade Estadual do Norte do Paraná (UENP).
+🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+    Consulta de feriados nacionais por ano.
 
-A few resources to get you started if this is your first Flutter project:
+    Integração com a BrasilAPI.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+    Exibição de datas e nomes dos feriados.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Consulta-feriados-android
->>>>>>> 732b2e9dc680892c17e51a9373801e3da502597e
+    Interface simples e intuitiva.
+
+🛠️ Tecnologias utilizadas
+
+    Flutter — Desenvolvimento da interface.
+
+    Dart — Linguagem de programação.
+
+    BrasilAPI — Consulta de feriados nacionais.
+
+    Android Studio / VS Code — Ambiente de desenvolvimento.
+
+▶️ Como executar
+
+    Clone o repositório:
+
+    git clone https://github.com/Bragarmando25/Consulta-feriados-android.git
+
+    Entre na pasta do projeto:
+
+    cd Consulta-feriados-android
+
+    Instale as dependências:
+
+    flutter pub get
+
+    Execute o aplicativo:
+
+    flutter run
